@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(108, 75, 192);
+   }
+
+   h1{
+    color: rgb(0, 0, 0);
+  }
+
+   #Trabajo{
+    display: flex;
+  margin: 10px;
+  font-size: 20px;
+  }
+
+   .logo{
+    display: flex;
+    width: 75px;
+    height: 75px;
+    }
+
+   nav{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 80px;
+    margin-left: 10px;
+  }
+
+  .card{
+    display: flex;
+    justify-content:center
+    align-items: center;
+    margin: 120px;
+}
+
+.gap-2{
+    display: flex;
+    justify-content:center
+    align-items: center;
+    margin: 50px;
+}
+

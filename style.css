@@ -8,7 +8,6 @@ h1{
 
 #Trabajo{
   display: flex;
-justify-content: flex-start;
 margin: 10px;
 font-size: 20px;
 }
@@ -43,7 +42,7 @@ height: 75px;
 
 
 .parrafo{
-  color: rgb(151, 51, 245);
+  color: rgb(0, 0, 0);
     font-size: 60px;
     display: flex;
     align-items: center;
