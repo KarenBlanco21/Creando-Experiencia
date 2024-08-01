@@ -1,10 +1,9 @@
 body{
- background-color: rgb(216, 155, 255);
-}
+  background-attachment: fixed;
+  background-size: contain;
+background-repeat: round;
+    }
 
-h1{
-  color: rgb(0, 0, 0);
-}
 
 #Trabajo{
   display: flex;
@@ -13,8 +12,8 @@ font-size: 20px;
 }
 
 .cartel{
-  width: 1550px;
-  height: 550px;
+  width: 1475px;
+  height: 500px;
 
 }
 
@@ -42,7 +41,7 @@ height: 75px;
 
 
 .parrafo{
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
     font-size: 60px;
     display: flex;
     align-items: center;
@@ -50,7 +49,7 @@ height: 75px;
 }
 
 .parrafo2{
-  color: rgb(0, 0, 0);
+  color: rgb(192, 192, 192);
   font-size: 35px;
   
   display: flex;

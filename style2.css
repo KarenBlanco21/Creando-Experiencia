@@ -1,6 +1,7 @@
 body{
  background-attachment: fixed;
- background-color: rgb(19, 19, 19);
+ background-repeat: round;
+ background-size: contain;
    }
 
    h2{
