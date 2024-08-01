@@ -1,10 +1,11 @@
 body{
-    background-color: rgb(108, 75, 192);
+ background-attachment: fixed;
+ background-color: rgb(19, 19, 19);
    }
 
-   h1{
-    color: rgb(0, 0, 0);
-  }
+   h2{
+    color: rgb(255, 255, 255);
+      }
 
    #Trabajo{
     display: flex;
