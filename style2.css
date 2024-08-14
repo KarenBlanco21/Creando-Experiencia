@@ -6,7 +6,16 @@ body{
 
    h2{
     color: rgb(255, 255, 255);
+      font-size: 15px;
+    
       }
+
+      h1{
+        color: rgb(255, 255, 255);
+          font-size: 30px;
+          padding: 10px;
+        
+          }
 
    #Trabajo{
     display: flex;
@@ -35,10 +44,16 @@ body{
     margin: 120px;
 }
 
-.gap-2{
-    display: flex;
-    justify-content:center
-    align-items: center;
-    margin: 50px;
+.card-body{
+  font-size: 20px;
 }
+
+
+.mb-5 {
+  color: bisque;
+ font-size: 15px;
+ width: 350px;
+ }
+
+ 
 

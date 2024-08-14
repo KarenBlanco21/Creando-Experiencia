@@ -1,0 +1,37 @@
+body{
+    background-attachment: fixed;
+    background-repeat: round;
+    background-size: contain;
+      }
+   
+      h2{
+       color: rgb(255, 255, 255);
+       font-size: 20px;
+         }
+   
+      #Trabajo{
+       display: flex;
+     margin: 10px;
+     font-size: 90px;
+     }
+   
+      .logo{
+       display: flex;
+       width: 105px;
+       height: 105px;
+       }
+   
+      nav{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       height: 200px;
+       margin-left: 10px;
+     }
+
+     .mb-5 {
+        color: bisque;
+       font-size: 15px;
+       width: 350px;
+       }
+      
