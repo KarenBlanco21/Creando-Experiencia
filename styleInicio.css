@@ -1,13 +1,13 @@
 body{
-    background-attachment: fixed;
-    background-repeat: round;
-    background-size: contain;
+   background-color: rgb(41, 7, 72);
       }
    
       h2{
        color: rgb(255, 255, 255);
        font-size: 20px;
          }
+
+         
    
       #Trabajo{
        display: flex;
@@ -30,7 +30,7 @@ body{
      }
 
      .mb-5 {
-        color: bisque;
+        color: rgb(255, 255, 255);
        font-size: 15px;
        width: 350px;
        }

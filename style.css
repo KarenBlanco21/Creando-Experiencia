@@ -1,7 +1,5 @@
 body{
-  background-attachment: fixed;
-  background-size: contain;
-background-repeat: round;
+  background-color: rgb(255, 255, 255);
     }
 
 
@@ -18,11 +16,12 @@ font-size: 20px;
 }
 
 nav{
+  background-color: rgb(41, 7, 72);
   display: flex;
   justify-content: flex-start;
   align-items: center;
   height: 80px;
-  margin-left: 10px;
+  margin-left: 0px;
 }
 
 .logo{
@@ -33,7 +32,7 @@ height: 75px;
 }
 
 .info2{
-  background-color: rgb(35, 19, 55);
+  background-color: rgb(254, 254, 254);
   display: flex;
   margin: 10px;
   width: 1000px;
@@ -46,14 +45,14 @@ height: 75px;
 
 
 .parrafo{
-  color: rgb(255, 255, 255);
+  color: rgb(3, 3, 3);
     font-size: 30px;
     display: flex;
     align-items: center;
 }
 
 .parrafo2{
-  color: rgb(192, 192, 192);
+  color: rgb(0, 0, 0);
   font-size: 20px;
   display: flex;
   height: 200px;

@@ -1,7 +1,5 @@
 body{
- background-attachment: fixed;
- background-repeat: round;
- background-size: contain;
+background-color: rgb(255, 255, 255);
    }
 
    h2{
@@ -30,14 +28,14 @@ body{
     }
 
    nav{
+    background-color: rgb(41, 7, 72);
     display: flex;
     justify-content: flex-start;
     align-items: center;
     height: 80px;
-    margin-left: 10px;
+    margin-left: 0px;
   }
-
-  .card{
+ .card{
     display: flex;
     justify-content:center
     align-items: center;
@@ -50,7 +48,7 @@ body{
 
 
 .mb-5 {
-  color: bisque;
+  color: rgb(0, 0, 0);
  font-size: 15px;
  width: 350px;
  }
