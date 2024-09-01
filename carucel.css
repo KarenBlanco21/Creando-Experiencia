@@ -1,0 +1,11 @@
+.carousel-inner {
+    color: white;
+    width: 15%;
+    opacity: .5;
+    
+}
+
+object-fit: {
+    contain: contain,
+    scale: scale-down,
+}
