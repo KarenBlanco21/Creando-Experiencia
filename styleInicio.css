@@ -1,5 +1,8 @@
 body{
-   background-color: rgb(41, 7, 72);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
       }
    
       h2{
@@ -7,20 +10,24 @@ body{
        font-size: 20px;
          }
 
-         
-   
-      #Trabajo{
-       display: flex;
-     margin: 10px;
-     font-size: 90px;
-     }
-   
       .logo{
        display: flex;
        width: 105px;
        height: 105px;
        }
    
+       .recuadro{
+          width: 420px;
+          background: transparent;
+          border: 2px solid rgba(255, 255, 255, .2);
+          backdrop-filter: blur(20px);
+          box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+          color: #fff;
+          border-radius: 10px;
+          padding: 30px 40px;
+          
+              
+           }
       nav{
        display: flex;
        justify-content: center;
