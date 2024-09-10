@@ -1,2 +1,4 @@
 # Creando-Experiencia
-Proyecto de Trabajo: Portal de empleos para jovenes sin experiencia, con capacitaciones y posibilidad de adquirir y ofrecer empleos casuales.
+En la actualidad, las grandes empresas, incluso los empleos casuales, requieren una experiencia minima de ½ años en puestos similares. Esto provoca una gran problematica para los jovenes recien graduados.  
+
+Nuestra solucion fue crear un sitio web donde las personas puedan adquirir experiencia sin necesidad de haber trabajado formalmente en un puesto. Obteniendo conocimientos a travez de diversos cursos, con informacion de todo tipo, que tengan la posibilidad de aprender mediante ejercicios y consultas. Tambien, contara con una seccion donde se les enseñe la manera correcta de crear su primer cv. En otra seccion, podran visualizar su nivel de experiencia en "Progresos" a medida que vayan completando los cursos. Y por ultimo, tendra un portal de empleos. Donde el usuario podra tanto postularse, como proponer ofertas laborales casuales. 
