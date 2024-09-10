@@ -1,22 +1,36 @@
-let numero1 = promt("ingrese el 1° numero");
-let operación = promt("ingrese una operacion");
-let numero2 = prompt("ingrese el 2° numero");
+
+const email= document.getElementById("email");
+const contraseña= document.getElementById("contraseña");
+const button = document.getElementById("button");
+
+alert("INGRESA TUS DATOS");
+
+button.addEventListener("click", (e) =>{
+    e.preventDefault()
+    const data = {
+        email: email.value,
+        contraseña: contraseña.value
+    }
+    console.log(data)
+})
 
 
-let resultado;
 
-if (operación == "+") {
-    resultado = sumar(numero1+numero2);
+if (contraseña == 123456 && email == "karen@gmail.com") is true{
+   
+    alert("Bienvenido" + "" + "karen" );
+}
+else {
+    alert("datos incorrectos");
 }
 
-else if (operación == "-") {
-    resultado = resta(numero1-numero2);
-}
-else if (operación == "*") {
-    resultado = multiplicar(numero1*numero2);
-}
-else if (operación == "/") {
-    resultado = dividir(numero1/numero2);
-}
 
-mostrarResultado(resultado);
+
+&&
+
+
+
+
+
+
+

@@ -1,61 +1,81 @@
 body{
-  background-color: rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
     }
 
+.logo{
+  display: flex;
+  width: 55px;
+  height: 55px;
+  justify-content: center;
+  }
+
+nav{
+  background-color: rgba(50, 40, 74, 0.936);
+  display: flex;
+  margin-left: 0px;
+  padding: 2%;
+} 
 
 #Trabajo{
   display: flex;
-margin: 10px;
-font-size: 20px;
+  margin: 10px;
+  font-size: 20px;
 }
 
-.cartel{
-  width: 1475px;
-  height: 500px;
-
-}
-
-nav{
-  background-color: rgb(41, 7, 72);
+.boton{
   display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  height: 80px;
-  margin-left: 0px;
+  padding: 1px;
+  color: rgb(189, 132, 255);
+  
 }
 
-.logo{
-display: flex;
-width: 75px;
-height: 75px;
 
+.informacion{
+  display: flex;
+  margin-left: 230px;
 }
+
+
 
 .info2{
-  background-color: rgb(254, 254, 254);
-  display: flex;
-  margin: 10px;
-  width: 1000px;
+  width: 800px;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.521);
+  backdrop-filter: blur(20px);
+  box-shadow: 0 0 10px rgb(255, 255, 255);
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 3px 40px;
+  margin-left: 15%;
   height: 200px;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-
 }
 
 
 .parrafo{
-  color: rgb(3, 3, 3);
+  color: rgb(255, 255, 255);
     font-size: 30px;
     display: flex;
     align-items: center;
 }
 
 .parrafo2{
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-size: 20px;
   display: flex;
   height: 200px;
   align-items: center;
 }
 
+.carousel-inner {
+  color: white;
+  width: 15%;
+  opacity: .5;
+  
+}
+
+object-fit: {
+  contain: contain,
+  scale: scale-down,
+}
